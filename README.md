@@ -1,12 +1,25 @@
-### Olá Mundo! 👋
+## Olá, eu sou a Gabriela! 
 
-Me chamo Gabriela, tenho 16 anos e participo do projeto Empower Her!
+🎓 Estudante de Engenharia Eletrônica (IFSC)  
+💻 Experiência em Suporte Técnico (TI)  
+🌎 Semifinalista mundial no Technovation Girls 2023 
 
-🔭 Trabalho na NSC comunicações como jovem aprendiz, na area de suporte (TI)
+## 🚀 Sobre mim
+Sou apaixonada por tecnologia e iniciei minha jornada por meio de projetos sociais como Technovation e Minatech. Tenho experiência prática em suporte de TI, atuando com atendimento a usuários, resolução de problemas e suporte a sistemas e redes.
 
-## 📚 Educação
+## 🛠️ Tecnologias e conhecimentos
+- Suporte Técnico (TI)
+- Redes e conectividade
+- HTML, CSS, Python
+- Lógica de programação
 
-🌱 Estou no 2 ano do ensino médio
+## 💼 Experiência
+*Suporte de TI – NSC Comunicações*  
+Atuação com atendimento ao usuário, resolução de problemas técnicos, suporte a sistemas e configuração de equipamentos.
+
+## 🏆 Conquistas
+- Semifinalista mundial – Technovation Girls 2023 (categoria Júnior)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
