@@ -34,5 +34,4 @@ Atuação com atendimento ao usuário, resolução de problemas técnicos, supor
 <div>
 <a href = "mailto:gabrielaguimaraes0501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-guimar%C3%A3es-santana-095876285/)
-</div>
+
