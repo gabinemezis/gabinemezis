@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia Eletrônica (IFSC)  
 💻 Experiência em Suporte Técnico (TI)  
-🌎 Semifinalista mundial no Technovation Girls 2023 
+🌎 Semifinalista mundial do Technovation Girls 2023 
 
 ## 🚀 Sobre mim
 Sou apaixonada por tecnologia e iniciei minha jornada por meio de projetos sociais como Technovation e Minatech. Tenho experiência prática em suporte de TI, atuando com atendimento a usuários, resolução de problemas e suporte a sistemas e redes.
